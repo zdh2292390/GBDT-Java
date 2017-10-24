@@ -1,2 +1,2 @@
-# FGBT
-Fastest GBDT in Spark !
+# GBDT and Random Forest in Java
+
